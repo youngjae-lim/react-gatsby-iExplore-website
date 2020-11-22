@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "New York, New York",
+    "name": "New York, New York",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Positano, Italy",
+    "name": "Positano, Italy",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Norwich, United Kingdom",
+    "name": "Norwich, United Kingdom",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Pitt Meadows, Canada",
+    "name": "Pitt Meadows, Canada",
+    "button": "View Destination"
+  }
+]
